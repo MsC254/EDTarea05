@@ -5,6 +5,9 @@ public class Pedido {
         this.cliente = cliente;
     }
 
+    public Cliente getCliente() {
+        return cliente;
+    }
     public void procesarPedido(double total, boolean esVIP) {
         double descuento = 0;
 
