@@ -7,8 +7,7 @@ public class Cliente {
         this.esVip = esVip;
         this.nombre = nombre;
         this.id = id;
-    }
-Public boolean isEsVip() {
+    }public boolean isEsVip() {
         return esVip;
 }
 
