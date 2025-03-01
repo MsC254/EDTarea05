@@ -1,3 +1,6 @@
+/**
+ * Clase principal que simula el procesamiento de pedidos para clientes normales y VIP.
+ */
 public class Main {
     public static void main(String[] args) {
         // Crea un pedido para un cliente normal
